@@ -577,6 +577,7 @@
             this.chkCorporateRate.TabIndex = 8;
             this.chkCorporateRate.Text = "Corp/Government";
             this.chkCorporateRate.UseVisualStyleBackColor = true;
+            this.chkCorporateRate.CheckStateChanged += new System.EventHandler(this.chkCorporateRate_CheckStateChanged);
             // 
             // label1
             // 

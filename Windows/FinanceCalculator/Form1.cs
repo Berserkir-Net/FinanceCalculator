@@ -483,6 +483,14 @@ namespace WindowsFormsApplication1
             }
         }
 
+        private void chkCorporateRate_CheckStateChanged(object sender, EventArgs e)
+        {
+            if (txtRentalAmtToFinance.Text != "")
+            {
+                btnCalculate_Click(sender, e);
+            }
+        }
+
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
             if (chkRentFinDetails.Checked == true)
@@ -1174,5 +1182,6 @@ namespace WindowsFormsApplication1
             // Run Rental Calculation
             RentalCalculation(SelectedTerm);
         }
+
     }
 }
