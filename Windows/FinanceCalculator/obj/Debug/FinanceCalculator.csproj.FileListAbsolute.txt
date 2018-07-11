@@ -1,0 +1,14 @@
+C:\Users\dyson\Source\Repos\FinanceCalculator\Windows\FinanceCalculator\bin\Debug\Finance Calculator.exe.manifest
+C:\Users\dyson\Source\Repos\FinanceCalculator\Windows\FinanceCalculator\bin\Debug\Finance Calculator.application
+C:\Users\dyson\Source\Repos\FinanceCalculator\Windows\FinanceCalculator\bin\Debug\Finance Calculator.exe
+C:\Users\dyson\Source\Repos\FinanceCalculator\Windows\FinanceCalculator\bin\Debug\Finance Calculator.pdb
+C:\Users\dyson\Source\Repos\FinanceCalculator\Windows\FinanceCalculator\obj\Debug\FinanceCalculator.csprojAssemblyReference.cache
+C:\Users\dyson\Source\Repos\FinanceCalculator\Windows\FinanceCalculator\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dyson\Source\Repos\FinanceCalculator\Windows\FinanceCalculator\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\dyson\Source\Repos\FinanceCalculator\Windows\FinanceCalculator\obj\Debug\FinanceCalculator.Properties.Resources.resources
+C:\Users\dyson\Source\Repos\FinanceCalculator\Windows\FinanceCalculator\obj\Debug\FinanceCalculator.csproj.GenerateResource.cache
+C:\Users\dyson\Source\Repos\FinanceCalculator\Windows\FinanceCalculator\obj\Debug\FinanceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\dyson\Source\Repos\FinanceCalculator\Windows\FinanceCalculator\obj\Debug\Finance Calculator.exe.manifest
+C:\Users\dyson\Source\Repos\FinanceCalculator\Windows\FinanceCalculator\obj\Debug\Finance Calculator.application
+C:\Users\dyson\Source\Repos\FinanceCalculator\Windows\FinanceCalculator\obj\Debug\Finance Calculator.exe
+C:\Users\dyson\Source\Repos\FinanceCalculator\Windows\FinanceCalculator\obj\Debug\Finance Calculator.pdb

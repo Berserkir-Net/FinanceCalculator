@@ -87,13 +87,13 @@ namespace WindowsFormsApplication1
 
             if (TermOfRental > 60) { return 0; }
             if (TermOfRental < 12) { return 0; }
-            if (AmountOfRental < 500) { return 0; }
+            if (AmountOfRental < 249) { return 0; }
 
             string ratepickup = "";
 
             ratepickup = "rate_" + TransactionType + "_" + Convert.ToString(TermOfRental) + "_";
 
-            if ((AmountOfRental > 499) && (AmountOfRental < 7500))
+            if ((AmountOfRental > 249) && (AmountOfRental < 7500))
             {
                 RentalReturnRate = RegistryRateRetrieve(ratepickup+"1");
             }
@@ -139,7 +139,7 @@ namespace WindowsFormsApplication1
 
             feepickup = "rate_" + TransactionType + "_fee_";
 
-            if ((AmountOfRental > 499) && (AmountOfRental < 7500))
+            if ((AmountOfRental > 249) && (AmountOfRental < 7500))
             {
                 FeeReturnRate = RegistryRateRetrieve(feepickup + "1");
             }
@@ -206,7 +206,7 @@ namespace WindowsFormsApplication1
                 return;
             }
             
-            if (RentalAmountToFinanceExc < 500f)
+            if (RentalAmountToFinanceExc < 249f)
             {
                 MessageBox.Show("Rental Amount must be above\r\n$1,000 exc GST.");
                 return;
