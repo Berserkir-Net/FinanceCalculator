@@ -12,7 +12,7 @@
     <AssemblyName>Finance Calculator</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <ManifestCertificateThumbprint>1949D27D9171FEEC6CF8366C319434175C14FED4</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>5ECD73F2B93CEFA3DAF693B4D878DC0BA88F4FD8</ManifestCertificateThumbprint>
     <ManifestKeyFile>FinanceCalculator_TemporaryKey.pfx</ManifestKeyFile>
     <GenerateManifests>true</GenerateManifests>
     <SignManifests>true</SignManifests>
@@ -32,10 +32,10 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>false</MapFileExtensions>
-    <InstallUrl>\\masterserver\library\Software\BAL Custom Software\Installers\FinanceCalculator\</InstallUrl>
-    <UpdateUrl>\\masterserver\library\Software\BAL Custom Software\Installers\FinanceCalculator\</UpdateUrl>
+    <InstallUrl>\\bal\shared\library\Software\BAL Custom Software\Installers\FinanceCalculator\</InstallUrl>
+    <UpdateUrl>\\bal\shared\library\Software\BAL Custom Software\Installers\FinanceCalculator\</UpdateUrl>
     <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
-    <ApplicationRevision>28</ApplicationRevision>
+    <ApplicationRevision>29</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
