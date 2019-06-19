@@ -2,7 +2,7 @@
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <PublishUrlHistory>publish\</PublishUrlHistory>
-    <InstallUrlHistory>\\bal\shared\library\Software\BAL Custom Software\Installers\FinanceCalculator\|\\bal\internal\library\Software\BAL Custom Software\Installers\FinanceCalculator\|\\masterserver\library\Software\BAL Custom Software\Installers\FinanceCalculator\|\\masterserver\library\Software\BAL Custom Software\Source Code\FinanceCalculator\FinanceCalculator\publish\|\\masterserver\library\Software\BAL Custom Software\Source Code\FinanceCalculator\publish\</InstallUrlHistory>
+    <InstallUrlHistory>\\bal.local\shared\library\Software\BAL Custom Software\Installers\FinanceCalculator\|\\bal\shared\library\Software\BAL Custom Software\Installers\FinanceCalculator\|\\bal\internal\library\Software\BAL Custom Software\Installers\FinanceCalculator\|\\masterserver\library\Software\BAL Custom Software\Installers\FinanceCalculator\|\\masterserver\library\Software\BAL Custom Software\Source Code\FinanceCalculator\FinanceCalculator\publish\</InstallUrlHistory>
     <SupportUrlHistory />
     <UpdateUrlHistory>\\bal\internal\library\Software\BAL Custom Software\Installers\FinanceCalculator\|\\masterserver\library\Software\BAL Custom Software\Installers\FinanceCalculator\</UpdateUrlHistory>
     <BootstrapperUrlHistory />
